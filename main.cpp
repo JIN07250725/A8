@@ -178,7 +178,7 @@ C. CALCULATIONS
 Describe calculations used by algorithms in step D.  
 List all formulas.
 assignAvg = (sum of all assignment scores) / numAssignments;
-finalScore = (assignAvg × 0.6) + (midtermScore × 0.2) + (finalExamScore × 0.2)
+finalScore = (assignAvg * 0.6) + (midtermScore * 0.2) + (finalExamScore * 0.2)
 
 D. LOGIC and ALGORITHMS
 Design the logic of your program using pseudocode or flowcharts. 

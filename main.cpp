@@ -213,6 +213,7 @@ FUNCTION main():
     assignAvg = CALL assignAverage(numAssignments)
     
     DECLARE midtermScore, finalExamScore: double
+    
     CALL getInput(midtermScore, finalExamScore)
     
     finalScore = CALL calcFinalScore(assignAvg, midtermScore, finalExamScore)
